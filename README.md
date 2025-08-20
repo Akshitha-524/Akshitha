@@ -1,5 +1,5 @@
 # Akshitha
-# Hi, I’m Akshu 👋
+# Hi, I’m Akshitha 👋
 
 Final-year B.Tech CSE student | Aspiring Software Developer | Open to opportunities in Full-Stack Development & AI/ML  
 
@@ -44,5 +44,5 @@ Here are a few projects I’ve worked on:
 ---
 
 ## 🔹 Contact
-- **Email:** akshithamaddukuri@example.com  
-- **LinkedIn:** [linkedin.com/in/akshithamaddukuri](https://linkedin.com/in/akshithamaddukuri)  
+- **Email:** maddukuriakshitha@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/akshithamaddukuri524/
