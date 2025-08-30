@@ -1,4 +1,4 @@
-# Akshitha
+# Akshitha_Portfolio
 # Hi, I’m Akshitha 👋
 
 Final-year B.Tech CSE student | Aspiring Software Developer | Open to opportunities in Full-Stack Development & AI/ML  
